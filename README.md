@@ -19,4 +19,4 @@
 
 ##Progress So Far
 
-  - This is the iframe I've been able to display so far: ![stream example](./edison-screen-capture.gif)
+  ![stream example](./edison-screen-capture.gif)
